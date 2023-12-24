@@ -1,0 +1,64 @@
+for k in range(1,16):
+    if (k%2==0):
+        print(str(k)+" ;"+"even number")
+    else:
+        print(str(k)+" ;"+"odd number")
+#ده تاسك الارقام الفردي و الزوجي
+
+
+
+def divison (x, y):
+    if y == 0:
+        return "divison by zero not allowed"
+    else:
+        return x / y
+z = divison(10,5)
+print(z)
+print(type(z))
+z = int(z)
+print(z)
+print(type(z))
+z = str(z)
+print(z)
+print(type(z))
+#ده تاسك تحويل من فلوت ل استرنج ل انتجر
+
+
+
+
+
+
+x=1
+for x in range(1,10001):
+    print(x)
+
+#تاسك بيطبع من واحد ل 10001
+
+
+
+
+
+
+
+odd_numbers = []
+even_numbers = []
+
+for num in range(1, 21):
+    if num % 2 == 0:
+        even_numbers.append(num)
+    else:
+        odd_numbers.append(num)
+
+print("الأرقام الفردية:", odd_numbers)
+print("الأرقام الزوجية:", even_numbers
+
+#تاسك بيطبع الارقام الفردي و الارقام الزوجي كل حاجه لوحدها
+
+
+
+
+
+
+
+
+
