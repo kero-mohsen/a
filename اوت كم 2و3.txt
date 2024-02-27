@@ -1,0 +1,84 @@
+7-mention the types of annotation?
+Bounding box, polygon, cuboid, key points, text, semantic segmentation, instance
+segmentation,line annotation.
+8-mention the types of text annotation?
+Name entity recognition(NER),
+Part-Of-Speech(POS),
+Sentiment Analysis,
+Dependency Parsing,
+Coreference Resolution,
+Text Classification,
+Event Extraction.
+9-mention the image characteristics?
+Color system,
+pixels,
+arrays,
+image filtering,
+image compression,
+image restoration,
+edge detection,
+image analysis,
+image segmentation,
+object recognition,
+morphological processing.
+10-mention the computer vision fundementals?
+Image processing,
+feature extraction,
+object recognition and detection,
+image classification,
+tracking,
+scene reconstruction,
+machine learning and deep learning,
+augment reality.
+11-difference between (wav, Mp3)?
+Wav:- it's stands for wavform audio file format, and the audio file is uncompressed,
+the Sound quality of the original audio signals is retained, and It used only in
+high-quality CDs, professional recording.
+Mp3:- it's stands for MPEG-1 Audio Layer-3,and it's file largely compressed so the
+Sound quality is heavily decreased, and Mp3 the most common audio format, used
+for storing and transferring songs.
+WMA file extension:- is short for Windows Media Audio, which is an audio file
+container and serves as an audio codec too. The regular WMA format
+contains lossy audio data “WMA Lossless” is available too. Widely used for
+voice content and audio recordings, WMA offers great compatibility with all
+major multimedia players and editing software.
+12-difference between(coco, yolo, pascal) ?
+Coco:- coco is a huge image dataset collected for object detection, segmentation,
+person key points detection, object segmentation, and caption generation, and the
+annotations are stored using json file. coco x,y top left, w, h.
+Method of recording the boundaries of object: polygon-based, speed: slow
+Yolo:- yolo is an abbreviation that stands for you only look once and It useing txt file.
+yolo x.y center, w, h.
+Method of recording the boundaries of object:
+Grid-based, speed: very fast
+Pascal:- pascal is a data annotation format that stores annotation information in xml
+format.
+pascal: x,y min top left, x.y max bottom right, Method of recording the boundaries of
+object:
+Rectangle-based, speed: fast.
+13-difference between text extensions?
+1. **CSV (Comma-Separated Values):**
+- A text format for organizing data in a table structure.
+- Data is separated by commas or specified delimiters (typically comma or
+semicolon).
+- Widely used for data interchange between applications and data analysis.
+2. **XLSX (Excel Spreadsheet):**
+- A file format for spreadsheets used in spreadsheet programs like Microsoft Excel.
+- Organizes cells in rows and columns, supporting text, numbers, images, and
+charts.
+3. **TXT (Plain Text):**
+- A simple text format containing plain text without formatting.
+- Used for basic data storage, human-readable, and machine-readable.
+4. **HTML (Hypertext Markup Language):**
+- A markup language used to build web pages.
+- Contains encoding elements defining structure, content, and linking between
+pages.
+5. **PDF (Portable Document Format):**
+- A file format containing text, images, and graphics independently of software and
+hardware.
+- Used for document exchange across different systems without losing formatting.
+6.JSON ( JavaScript Object Notation) : the data is complex, nested, and
+object-oriented, and you are working with web applications and APIs.
+7. XML (Extensible Markup Language) : should be chosen if the data is rich,
+hierarchical, and document-based, and you are working with XML standards and
+formats.
