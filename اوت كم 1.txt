@@ -1,0 +1,12 @@
+1-mention the types of file formates?
+Audio, video, image, text
+2-mention four of the Video extensions?
+Mov,mp4,avi, wmv
+3-mention four of the Audio extensions?
+Mp3, wav,aiff, wma
+4-mention four of the image extensions?
+Png, jpg, jpeg, gif
+5-mention four of the text extensions?
+Csv, json, txt, excel.
+6-what's meaning by annotation?
+The task of labeling digital images.
